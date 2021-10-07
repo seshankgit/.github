@@ -11,9 +11,9 @@
 <p align="center">
   Giving back to the community
   <br><br>
-  <a href="https://gdsc.community.dev/gayatri-vidya-parishad-college-of-engineering-visakhapatnam/">Join Us</a>
+  <a href="https://gdsc.community.dev/gayatri-vidya-parishad-college-of-engineering-visakhapatnam/">🎃 Join Us 🎃</a>
   <br><br>
-  <a href="https://discord.com/invite/NkkTXYShTy">Discord</a> &nbsp; · &nbsp; 
+  <a href="https://discord.com/invite/NkkTXYShTy">🎃 Discord</a> &nbsp; · &nbsp; 
   <a href="https://twitter.com/gdsc_gvp">Twitter</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/company/gdsc-gvp">Linkedin</a>
+  <a href="https://www.linkedin.com/company/gdsc-gvp">Linkedin 🎃</a>
 </p>
