@@ -1,1 +1,2 @@
-### GDSC GVP 
+### 🎃 GDSC GVP 🎃
+
