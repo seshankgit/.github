@@ -15,4 +15,5 @@
   <a href="https://discord.com/invite/NkkTXYShTy"><img src="https://img.icons8.com/office/30/000000/discord-logo.png"/></a> &nbsp;
   <a href="https://twitter.com/gdsc_gvp"><img src="https://img.icons8.com/office/30/000000/twitter.png"/></a>&nbsp;
   <a href="https://www.linkedin.com/company/gdsc-gvp"><img src="https://img.icons8.com/office/30/000000/linkedin.png"/></a>&nbsp;
+   <a href="https://www.instagram.com/gdsc_gvp/"><img src="https://img.icons8.com/office/30/000000/instagram-new.png"/></a>&nbsp;
 </p>
