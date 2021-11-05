@@ -1,2 +1,2 @@
-### 🎃 GDSC GVP 🎃
+### 🌳 GDSC GVP 🌳
 
