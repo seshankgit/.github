@@ -1,5 +1,4 @@
-<p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&height=80&lines=🎃Hacktoberfest+at+GVP!;Check+out+our+repos🎃" /></a>
+
 </p>
 <h1 align="center">GDSC GVP</h1>
 
@@ -11,9 +10,10 @@
 <p align="center">
   Giving back to the community
   <br><br>
-  <a href="https://gdsc.community.dev/gayatri-vidya-parishad-college-of-engineering-visakhapatnam/">🎃 Join Us 🎃</a>
-  <br><br>
-  <a href="https://discord.com/invite/NkkTXYShTy">🎃 Discord</a> &nbsp; · &nbsp; 
-  <a href="https://twitter.com/gdsc_gvp">Twitter</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/company/gdsc-gvp">Linkedin 🎃</a>
+  <a href="https://gdsc.community.dev/gayatri-vidya-parishad-college-of-engineering-visakhapatnam/">🚀 Join Us 🚀</a>
+  <br> <br>
+  <a href="https://discord.com/invite/NkkTXYShTy"><img src="https://img.icons8.com/office/30/000000/discord-logo.png"/></a>&nbsp;
+  <a href="https://twitter.com/gdsc_gvp"><img src="https://img.icons8.com/office/30/000000/twitter.png"/></a>&nbsp;
+  <a href="https://www.linkedin.com/company/gdsc-gvp"><img src="https://img.icons8.com/office/30/000000/linkedin.png"/></a>&nbsp;
+   <a href="https://www.instagram.com/gdsc_gvp/"><img src="https://img.icons8.com/office/30/000000/instagram-new.png"/></a>&nbsp;
 </p>
